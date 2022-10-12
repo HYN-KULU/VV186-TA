@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Midterm}{1}{0}{1}
+\beamer@sectionintoc {2}{Set}{4}{0}{2}
+\beamer@sectionintoc {3}{Sequence}{10}{0}{3}
+\beamer@sectionintoc {4}{Metric Space}{30}{0}{4}

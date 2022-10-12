@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Introduction}{1}{0}{1}
+\beamer@sectionintoc {2}{Logics}{3}{0}{2}
+\beamer@sectionintoc {3}{Sets}{21}{0}{3}
+\beamer@sectionintoc {4}{Numbers}{24}{0}{4}
